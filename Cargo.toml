@@ -2,5 +2,12 @@
 name = "pisirc"
 version = "0.1.0"
 edition = "2024"
+authors = ["HealonBet <healonbet@hotmail.com>"]
+description = "Pi si rc."
+readme = "README.md"
+homepage = "https://github.com/HealonBet/pisirc"
+repository = "https://github.com/HealonBet/pisirc"
+license = "MIT"
+keywords = ["pisi"]
 
 [dependencies]
