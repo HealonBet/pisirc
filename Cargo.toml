@@ -9,5 +9,6 @@ homepage = "https://github.com/HealonBet/pisirc"
 repository = "https://github.com/HealonBet/pisirc"
 license = "MIT"
 keywords = ["pisi"]
+include = ["data/02.bin", "data/af.bin"]
 
 [dependencies]
